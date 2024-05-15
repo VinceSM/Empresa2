@@ -1,0 +1,10 @@
+C:\Users\vsmx4\source\repos\Empresa2\bin\Debug\Empresa2.exe.config
+C:\Users\vsmx4\source\repos\Empresa2\bin\Debug\Empresa2.exe
+C:\Users\vsmx4\source\repos\Empresa2\bin\Debug\Empresa2.pdb
+C:\Users\vsmx4\source\repos\Empresa2\obj\Debug\Empresa2.csproj.AssemblyReference.cache
+C:\Users\vsmx4\source\repos\Empresa2\obj\Debug\Empresa2.Properties.Resources.resources
+C:\Users\vsmx4\source\repos\Empresa2\obj\Debug\Empresa2.Form1.resources
+C:\Users\vsmx4\source\repos\Empresa2\obj\Debug\Empresa2.csproj.GenerateResource.cache
+C:\Users\vsmx4\source\repos\Empresa2\obj\Debug\Empresa2.csproj.CoreCompileInputs.cache
+C:\Users\vsmx4\source\repos\Empresa2\obj\Debug\Empresa2.exe
+C:\Users\vsmx4\source\repos\Empresa2\obj\Debug\Empresa2.pdb
